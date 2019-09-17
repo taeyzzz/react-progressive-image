@@ -11,3 +11,5 @@
   src={... this is the real image size src}
 />
 ```
+## Reference
+https://medium.com/@perjansson/a-progressive-image-loader-in-react-f14ae652619d
